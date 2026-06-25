@@ -29,3 +29,11 @@ body {
 main {
     flex: 1;
 }
+
+.cabecalho-link {
+    color: #2255ff;
+}
+
+h1 {
+    color: #2255ff;
+}
